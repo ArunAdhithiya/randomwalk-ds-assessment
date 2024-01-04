@@ -45,3 +45,7 @@ Q6: Which book (title) has the maximum number of ratings based on ‘work_rating
 Q7: Bucket the average_rating of books into 11 buckets [0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0] with 0.5 decimal rounding (eg: average_rating 3.0 to 3.49 will fall in bucket 3.0). Plot bar graph to show total number of books in each rating bucket.
 
 
+## Video Recording:
+
+
+[PRO.webm](https://github.com/ArunAdhithiya/randomwalk-ds-assessment/assets/102973801/e2576758-742c-4fb8-a6de-5b04d864e901)
